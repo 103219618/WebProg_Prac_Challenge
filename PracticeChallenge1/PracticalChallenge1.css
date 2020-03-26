@@ -3,9 +3,13 @@ background-color: white;
 width: auto;
 height: auto;
 padding-left: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
 border: 1px solid white;
 margin-top: 20px;
 margin-bottom: 20px;
+font-family: 'Roboto', sans-serif;
+color: grey;
 }
 
 .scndbox {
@@ -22,5 +26,3 @@ padding-left: 30px;
 .purple {
     color: purple;
 }
-
-.font-family: 'Roboto', sans-serif;
